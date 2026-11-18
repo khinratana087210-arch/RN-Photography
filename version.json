@@ -1,0 +1,9 @@
+{
+  "latest_version": "3.0.0",
+  "release_date": "18/11/2026",
+  "title": "RN PhotoMaker Pro v3.0 Official Release",
+  "changelog": "• ប្ដូរប្រព័ន្ធសុវត្ថិភាព License ថ្មី (RN Pro v3) ការពារ Bypass 100%\n• បន្ថែមប្រព័ន្ធ Auto-Update ស្វ័យប្រវត្តិតាម Internet\n• បន្ថែមផ្ទាំងពិនិត្យមើល License (Lifetime & ចំនួនថ្ងៃនៅសល់)\n• កែលម្អប្រព័ន្ធកាត់ត AI Retouch & Symmetry Studio ឱ្យកាន់តែរលូន",
+  "mandatory": false,
+  "patch_url": "https://github.com/Ratana-Printing/RN-PhotoMaker-v3/releases/download/v3.0.0/photo_maker.pyc",
+  "setup_url": "https://github.com/Ratana-Printing/RN-PhotoMaker-v3/releases/download/v3.0.0/RN_PhotoMaker_v3_Setup.exe"
+}
