@@ -1,8 +1,8 @@
 {
   "latest_version": "4.0.0",
-  "release_date": "18/11/2026",
-  "title": "RN Photography v3.1 Ultra Update",
-  "changelog": "• បន្ថែម AI 32K Ultra HD Super-Resolution (Real-ESRGAN SOTA + GFPGAN Face Restore)\n• បន្ថែមមុខងារ Drag & Drop អូសរូបភាពទម្លាក់ចូលកម្មវិធី\n• បង្កើនភាពមុតស្រួយ Micro-Contrast & Detail Enhancement កម្រិតស្ទូឌីយោ",
+  "release_date": "19/11/2026",
+  "title": "RN Photography v4.0.0 Studio Update",
+  "changelog": "• បន្ថែមមុខងារ 🌟 1-Click AI Auto Beauty (Online Cloud AI + Auto Align & Neck Straighten + Natural Skin Retouch)\n• បន្ថែមមុខងារ AI 32K Ultra HD Super-Resolution (Real-ESRGAN SOTA + GFPGAN Face Restore)\n• បន្ថែមមុខងារ Drag & Drop អូសរូបភាពទម្លាក់ចូលកម្មវិធី\n• បង្កើនភាពមុតស្រួយ Micro-Contrast & Detail Enhancement កម្រិតស្ទូឌីយោ",
   "mandatory": false,
   "patch_url": "https://raw.githubusercontent.com/khinratana087210-arch/RN-Photography/main/photo_maker.pyc",
   "setup_url": ""
