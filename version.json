@@ -1,5 +1,5 @@
 {
-  "latest_version": "4.2.0",
+  "latest_version": "5.0.0",
   "release_date": "26/11/2026",
   "title": "RN Photography v4.2.0 Studio Update",
   "changelog": "• បន្ថែមមុខងារ SkinFiner Direct Studio ភ្ជាប់ស្វ័យប្រវត្តជាមួយ SkinFiner កែស្បែកមុខកម្រិតអាជីព\n• កែសម្រួលប៊ូតុងកាត់រូប (Crop Button) ឲ្យបង្ហាញអក្សរពេញលេញ (✅ យល់ព្រមកាត់រូប (Apply))\n• កែលម្អប្រព័ន្ធ Before / After ពិនិត្យរូបភាពមុននិងក្រោយកែជាមួយ SkinFiner រួច\n• ប្រព័ន្ធគ្រប់គ្រង Memory & File Temp ស្វ័យប្រវត្ត មិនឱ្យចង្អៀតទំហំ Disk",
