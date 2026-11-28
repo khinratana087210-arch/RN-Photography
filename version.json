@@ -1,11 +1,11 @@
 {
-  "latest_version": "5.1.0",
+  "latest_version": "5.1.1",
   "release_date": "28/11/2026",
-  "title": "RN Photography v5.1.0 Super AI & Gemini Web 4K Edition",
-  "changelog": "• បន្ថែមមុខងារ 🌐 Gemini Web 4K (ឥតគិតថ្លៃ Free • Auto-Sync): ភ្ជាប់ជាមួយ Website Gemini ដោយស្វ័យប្រវត្តិ និងទាញយករូបចូលកម្មវិធីវិញ Auto ពេលចុច Download/Save\n• បន្ថែមកន្លែង Set Prompt ផ្ទាល់ខ្លួនជាមួយរូបតំណាង (Hover Preview): ដាក់ Mouse ពីលើ Prompt ឃើញរូបភ្លាមៗ និងវាយអក្សរខ្មែរ Unicode បាន 100%\n• កែសម្រួល 🌸 SkinFiner Studio: រំលងផ្ទាំងសួរ Overwrite (Don't ask again) ដោយស្វ័យប្រវត្តិ និងបិទដោយសុវត្ថិភាព\n• ពង្រឹងម៉ាស៊ីន 🚀 AI 32K HD Super-Resolution: កែលម្អស្បែក សក់ និងកឱ្យច្បាស់ម៉ត់បែបធម្មជាតិ\n\n⚡ ចំណាំ: ចុច 'Update ឥឡូវនេះ' ដើម្បីទាញយក File Update រហ័ស (~800 KB) រួចបើកដំឡើង ១វិនាទីជាការស្រេច!",
+  "title": "RN Photography v5.1.1 Super AI & Gemini Web 4K Auto-Paste",
+  "changelog": "• កែលម្អ 🌐 Gemini Web 4K: ចុចលើ Preset ណាមួយ ➔ បើក Website Gemini & Auto-Paste រូប Canvas + Prompt តែម្ដង (១ ចុច!)\n• បន្ថែមកន្លែង Set Prompt ផ្ទាល់ខ្លួនជាមួយរូបតំណាង (Hover Preview) & វាយអក្សរខ្មែរ Unicode បាន 100%\n• កែលម្អប្រព័ន្ធ Auto-Update: ចាប់ពី v5.1.1 តទៅ កម្មវិធីទាញយក .pyc / .zip / Setup .exe ដោយផ្ទាល់ 100%\n• កែសម្រួល 🌸 SkinFiner Studio & ពង្រឹងម៉ាស៊ីន 🚀 AI 32K HD Super-Resolution\n\n⚡ ចំណាំ: ចុច 'Update ឥឡូវនេះ' ដើម្បីទាញយក File Update រហ័ស (~815 KB) រួចបើកដំឡើង ១វិនាទីជាការស្រេច!",
   "mandatory": false,
   "patch_url": "",
   "presets_url": "https://raw.githubusercontent.com/khinratana087210-arch/RN-Photography/main/Gemini_Presets.zip",
   "skinfiner_url": "https://raw.githubusercontent.com/khinratana087210-arch/RN-Photography/main/SkinFiner.zip",
-  "setup_url": "https://raw.githubusercontent.com/khinratana087210-arch/RN-Photography/main/RN_Photography_v5.1.0_Update.exe"
+  "setup_url": "https://raw.githubusercontent.com/khinratana087210-arch/RN-Photography/main/RN_Photography_v5.1.1_Update.exe"
 }
