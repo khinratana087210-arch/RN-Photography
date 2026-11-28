@@ -1,12 +1,12 @@
 {
-  "latest_version": "5.1.3",
+  "latest_version": "5.1.4",
   "release_date": "28/11/2026",
-  "title": "RN Photography v5.1.3 Frosted Glass UI + Scroll Fix",
-  "changelog": "• ជួសជុលមុខងារ Scroll ផ្ទាំងឆ្វេង/ស្ដាំ ឱ្យរមូរឡើងចុះរលូន 100% ទាំង UI ធម្មតា និង UI Glass\n• បន្ថែមជម្រើស UI Style ២ បែប ('ធម្មតា' និង '🪟 Glass' បែបកញ្ចក់ថ្លាទំនើប)\n• ដំណើរការ ⚡ Auto-Update ក្នុងកម្មវិធី 100% ដោយមិនបើក Browser ឡើយ",
+  "title": "RN Photography v5.1.4 Ultra-Smooth 60FPS & Solid Photo Glass UI",
+  "changelog": "• កែលម្អ 🪟 Glass UI: រក្សាទុកផ្ទាំងជុំវិញបែបកញ្ចក់ថ្លា ចំណែកឯរូបភាពកាត់តកណ្ដាល (Canvas) គឺច្បាស់រឹង 100% មិនថ្លាចូលផ្ទៃ Desktop ពីក្រោយទៀតទេ!\n• បង្កើនល្បឿន Smooth ខ្លាំង (60+ FPS): កាត់បន្ថយភាពទាក់ៗទាំង Scroll Sidebar, Zoom រូបធំៗ (លឿនជាងមុន 18x ដោយ OpenCV) និងផ្ដាច់ DWM Acrylic Lag\n• ដំណើរការ ⚡ Auto-Update ក្នុងកម្មវិធី 100%",
   "mandatory": false,
   "patch_url": "",
   "auto_patch_url": "https://raw.githubusercontent.com/khinratana087210-arch/RN-Photography/main/photo_maker.pyc",
   "presets_url": "https://raw.githubusercontent.com/khinratana087210-arch/RN-Photography/main/Gemini_Presets.zip",
   "skinfiner_url": "https://raw.githubusercontent.com/khinratana087210-arch/RN-Photography/main/SkinFiner.zip",
-  "setup_url": "https://raw.githubusercontent.com/khinratana087210-arch/RN-Photography/main/RN_Photography_v5.1.3_Update.exe"
+  "setup_url": "https://raw.githubusercontent.com/khinratana087210-arch/RN-Photography/main/RN_Photography_v5.1.4_Update.exe"
 }
