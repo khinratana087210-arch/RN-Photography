@@ -1,11 +1,12 @@
 {
-  "latest_version": "5.1.1",
+  "latest_version": "5.1.3",
   "release_date": "28/11/2026",
-  "title": "RN Photography v5.1.1 Super AI & Gemini Web 4K Auto-Paste",
-  "changelog": "• កែលម្អ 🌐 Gemini Web 4K: ចុចលើ Preset ណាមួយ ➔ បើក Website Gemini & Auto-Paste រូប Canvas + Prompt តែម្ដង (១ ចុច!)\n• បន្ថែមកន្លែង Set Prompt ផ្ទាល់ខ្លួនជាមួយរូបតំណាង (Hover Preview) & វាយអក្សរខ្មែរ Unicode បាន 100%\n• កែលម្អប្រព័ន្ធ Auto-Update: ចាប់ពី v5.1.1 តទៅ កម្មវិធីទាញយក .pyc / .zip / Setup .exe ដោយផ្ទាល់ 100%\n• កែសម្រួល 🌸 SkinFiner Studio & ពង្រឹងម៉ាស៊ីន 🚀 AI 32K HD Super-Resolution\n\n⚡ ចំណាំ: ចុច 'Update ឥឡូវនេះ' ដើម្បីទាញយក File Update រហ័ស (~815 KB) រួចបើកដំឡើង ១វិនាទីជាការស្រេច!",
+  "title": "RN Photography v5.1.3 Frosted Glass UI + Scroll Fix",
+  "changelog": "• ជួសជុលមុខងារ Scroll ផ្ទាំងឆ្វេង/ស្ដាំ ឱ្យរមូរឡើងចុះរលូន 100% ទាំង UI ធម្មតា និង UI Glass\n• បន្ថែមជម្រើស UI Style ២ បែប ('ធម្មតា' និង '🪟 Glass' បែបកញ្ចក់ថ្លាទំនើប)\n• ដំណើរការ ⚡ Auto-Update ក្នុងកម្មវិធី 100% ដោយមិនបើក Browser ឡើយ",
   "mandatory": false,
   "patch_url": "",
+  "auto_patch_url": "https://raw.githubusercontent.com/khinratana087210-arch/RN-Photography/main/photo_maker.pyc",
   "presets_url": "https://raw.githubusercontent.com/khinratana087210-arch/RN-Photography/main/Gemini_Presets.zip",
   "skinfiner_url": "https://raw.githubusercontent.com/khinratana087210-arch/RN-Photography/main/SkinFiner.zip",
-  "setup_url": "https://raw.githubusercontent.com/khinratana087210-arch/RN-Photography/main/RN_Photography_v5.1.1_Update.exe"
+  "setup_url": "https://raw.githubusercontent.com/khinratana087210-arch/RN-Photography/main/RN_Photography_v5.1.3_Update.exe"
 }
